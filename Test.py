@@ -2,7 +2,7 @@ def Z(*args):
     
     a = 0
     
-    for i in args:
+    for i in args: 
         
         a = a + i
         
