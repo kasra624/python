@@ -16,5 +16,3 @@ print(Z(5 , 12 , 20))
 print(Z(1 , 2 , 3 , 4 , 5 , 6))
 
 print(Z(1 , 2 , 3 , 4 , 5 , 6 , 11 , 19))
-
-print("hello world")
